@@ -20,7 +20,7 @@ HTML TEXT FORMATING
 
 Basic elements in HTML 
 -------------------------------
-<h1></h1> - first headline
+"<h1></h1>" - first headline
 <h2></h2> - second headline
 <p></p> - for paragraphs
 <em></em> - for text to appear Italic (used to grab attention ) 
