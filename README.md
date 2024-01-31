@@ -16,3 +16,14 @@ DOM is a web development concept where a document’s structure is represented a
 HTML TEXT FORMATING
 ====================================================================
 
+Basic elements in HTML 
+-------------------------------
+<h1></h1> - first headline
+<h2></h2> - second headline
+<p></p> - for paragraphs
+<em></em>
+
+Headlines
+-------------------------------
+- There are six different types : h1, h2, h3, h4, h5, h6
+- The h1 element is the largest and most prominent, while h6 is the smallest and least attention-grabbing.
