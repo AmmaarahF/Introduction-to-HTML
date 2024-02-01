@@ -140,5 +140,6 @@ Navigation
 ----------------------------------------------------
 - when making a menu navigation, each link is wrapped in an element with the correct URL and enclosed in an "li" element to create a list.
 - the entire menu should be enclosed with a "nav" element to indicate that it is the navigation.
+- to create a footer with links, all links should be enclosed with a "footer" element
 
 
