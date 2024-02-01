@@ -134,6 +134,11 @@ Creating Local URLs (relative URLs)
 
    1 - relative to the root level. The browser will start looking for the specific file from the root of the website.
    2 - relative to the location of the file where URL is written. The ".."means going up one level in the directory structure
-  
+
+
+Navigation
+----------------------------------------------------
+- when making a menu navigation, each link is wrapped in an element with the correct URL and enclosed in an "li" element to create a list.
+- the entire menu should be enclosed with a "nav" element to indicate that it is the navigation.
 
 
