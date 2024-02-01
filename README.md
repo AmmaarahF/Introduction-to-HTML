@@ -106,5 +106,20 @@ Formatting HTML
 
 Unusual Characters
 --------------------------------------------------------
+- Character entity are formatted as an ampersand, a short code, and a semicolon. When we include these in HTML, they are transformed into specific characters.
+- Example - &copy ; (no spaces) becomes &copy;
+- We can use the code "&nbsp;" to insert a non-breaking space between the two names, ensuring they stay on the same line.
+
+
+HTML Links
+-------------------------------------------------------
+- When we want to create a link, we use the A element, which stands for anchor.
+- To create a link, we need to add ah hred attribute with URL enclosed in quotes.
+- href - Hypertext reference
+- the A element is inline and can be placed within a paragraph or any other text.
+- Absolute URL - a complete web address that spcifies the exact location of a file on the internet, including protocol, domain name, and the path to the specific file.
+-  The "S" in HTTPS stands for Secure.
+-  In an absolute URL, the HTTP or HTTPS part must be included which stands for Hypertext Transport Protocol. This protocol defines the rules for communication on the web and is crucial for linking.
+  
 
 
