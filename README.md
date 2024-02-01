@@ -132,7 +132,7 @@ Creating Local URLs (relative URLs)
 1. /images/logo.gif
 2. ../images.logo.gif
 
-   1 - relative to the root level. The browser will start looking for the specific file from the root of the website.
+   1 - relative to the root level. The browser will start looking for the specific file from the root of the website.<br>
    2 - relative to the location of the file where URL is written. The ".."means going up one level in the directory structure
 
 
