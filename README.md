@@ -125,8 +125,15 @@ HTML Links
 HTML URL Pathways 
 -----------------------------------------------------
 - relative URL - a URL that indicates a file's location based on it's relationship to the current directory, streamlining navigation within a project
-- absolute URL - 
-  
+- absolute URL - a complete web address that specifies that exact location of a file on the internet, including the protocol, domain name, and the path to the specific file.
+
+Creating Local URLs
+-----------------------------------------------------
+1. /images/logo.gif
+2. ../images.logo.gif
+
+   1 - relative to the root level. The browser will start looking for the specific file from the root of the website.
+   2 - relative to the location of the file where URL is written. The ".."means going up one level in the directory structure
   
 
 
