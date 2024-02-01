@@ -89,16 +89,22 @@ HTML Attributes (these tags uses closing paragraph tags)
 - id attribute < p class="intro"
                  id="article-intro">
 > Can only use unique names once on an entire HTML page. IDs can be used for CSS targeting, but are more specific, which can sometimes cause issues.
+> The "dir" attribute explicitly indicates the direction in which the text flows, using "LTR" for left-to-right scripts and "RTL" for right-to-left scripts.
 
 
 ARIA Roles
 -------------------------------------------------------
 - ARIA Roles are extra attributes that we can add to HTML elements to make them more meaningful and help browsers understand what they represent.
+- ARIA Roles come into play when we want to provide essential information to assistive technologies like screen readers, braille displays, and magnifiers to ensure a website is fully accessible.
   
 
 Formatting HTML
 -------------------------------------------------------
+- use style tages and css to modify whitespace
 - use "<!--" at the start and "-->" at the end to comment in the actual code, the website does not render comments.
 
+
+Unusual Characters
+--------------------------------------------------------
 
 
