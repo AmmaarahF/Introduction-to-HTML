@@ -120,6 +120,13 @@ HTML Links
 - Absolute URL - a complete web address that spcifies the exact location of a file on the internet, including protocol, domain name, and the path to the specific file.
 -  The "S" in HTTPS stands for Secure.
 -  In an absolute URL, the HTTP or HTTPS part must be included which stands for Hypertext Transport Protocol. This protocol defines the rules for communication on the web and is crucial for linking.
+
+
+HTML URL Pathways 
+-----------------------------------------------------
+- relative URL - a URL that indicates a file's location based on it's relationship to the current directory, streamlining navigation within a project
+- absolute URL - 
+  
   
 
 
