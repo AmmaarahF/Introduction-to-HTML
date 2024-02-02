@@ -143,3 +143,24 @@ Navigation
 - to create a footer with links, all links should be enclosed with a "footer" element
 
 
+HTML Working with Graphics and Images
+----------------------------------------------------
+Images
+------------
+- There are four attributes to include when adding an image
+  ---------------------------------------------------------
+  -  the source attribute (SRC), tells the browser which image to load
+  -  alt attribute (ALT) - provides a text description
+  -  width and height attributes - determines the size of the image
+
+Image Formats
+----------------------------------------------------
+- GIF
+  > for compressing illustrations that have large areas of same color
+- SVG
+  > perfect for logos, icons, and other types of illustrations. 
+- JPG
+  >  for compressing photographs.
+- PNG
+  >  works well when you need transparency in a photograph.
+  
