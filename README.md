@@ -163,4 +163,7 @@ Image Formats
   >  for compressing photographs.
 - PNG
   >  works well when you need transparency in a photograph.
+
   
+Responsive Images
+---------------------------------------------------
