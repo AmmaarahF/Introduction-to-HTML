@@ -229,11 +229,10 @@ Embedding Media via Iframes
 --------------------------------------------------
 - iframe element has attributes like height and width that can be adjusted.
 - The src attribute is used to specify the source of the video file.
-- embed someone else's toolkit onto your own website
+- embeded someone else's toolkit onto your own website
 
 HTML Content Identification
 --------------------------------------------------
-<br>
 HTML Language Support 
 -------------------------------
 - The lang attribute is used to specify the language of a webpage.
@@ -246,5 +245,11 @@ HTML Generic Elements, Div and Span
 --------------------------------------------------
 - avoid using divs and spans for every little thing.
 - Div is a block-level element, while span is an inline element , They do nothing until CSS or Javascript is applied to them.
+- Both div and span can make use of various global attributes like class, id, lang, and aria roles.
+
+
+HTML Integration
+-------------------------------------------------
+HTML Page
+---------------------
 - 
--  
