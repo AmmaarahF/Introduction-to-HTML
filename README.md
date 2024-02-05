@@ -162,8 +162,39 @@ Image Formats
 - JPG
   >  for compressing photographs.
 - PNG
-  >  works well when you need transparency in a photograph.
+  >  works well when you need transparency in a photograph, displays in large size without pixelation.
 
   
-Responsive Images
+Responsive Images 
 ---------------------------------------------------
+- The browser and operating system, takes into account the devices's hardware capabilities and network speed to decide which image to download.
+- Even if someone has a high-resolution screen, the browser might opt to download a lower-resolution image.
+- To provide the browser with choices, simply add a source set attribute. Inside it, list the images on offer, separated by commas.
+
+
+Responsive Width
+---------------------------------------------------
+- indicate width 480w (480 pixels wide) and 960w
+- the browser decides which image to show based on device density and viewport width.
+
+
+Responsive Pictures
+---------------------------------------------------
+- if you want an image to appear differet sizes on different devices, you should list alternative options using the source element within the picture element.
+- for example , if you want two options, there should be two source elements.
+- the first source element , use the source set attribute to point to a mobile image file. This will use the cropped version of the photo, sized at 320 pixels.
+- the second source element, uses media query for larger screens. If the viewpoint is atleast 600 pixels wide, the landscape version of the photo will load.
+
+
+Figcaption and Figures
+-------------------------------------------------
+- Use the figcaption element to wrap the text and designate it as a caption. Then, put the image and the caption together in a figure element.
+- Figures can be used for more than just images, too. For example, use them for an interactive graphic. Place it in the same spot where the image element is in the code.
+
+
+Working With Media
+------------------------------------------------
+Audio
+---------------------------------------
+- different audio file formats
+  - mp3
