@@ -218,7 +218,7 @@ Video
 Working With Captions and Subtitles
 ------------------------------------------------
 - adding the track element and linking it to a text file to add captions to the video.
-- this element adds functionality to the video player, allowing users to toggle captions on and off or switch between differeent subtitle options.
+- this element adds functionality to the video player, allowing users to toggle captions on and off or switch between different subtitle options.
 - On the web, a file format called ibvtt, which stands for web video text tracks, will be used. It is a simple text file with a vtt extension that follows a specific convention for providing information.
 - To display these captions on the video, insert a track element within the video element.
 - On the track element, use the source attribute to specify the file.
@@ -233,7 +233,20 @@ Embedding Media via Iframes
 
 HTML Content Identification
 --------------------------------------------------
-
+<br>
 HTML Language Support 
 -------------------------------
+- The lang attribute is used to specify the language of a webpage.
+- The lang attribute also indicates the writing system used.
+- do not forget to set the charset (set of characters)
+- To specify the charset in HTML, simply include a meta charset tag that equals UTF-8. Place this meta element within the head element on every page of the website.
+
+
+HTML Generic Elements, Div and Span
+--------------------------------------------------
+- avoid using divs and spans for every little thing.
+- Div is a block-level element, while span is an inline element , They do nothing until CSS or Javascript is applied to them.
 - 
+
+
+-  
