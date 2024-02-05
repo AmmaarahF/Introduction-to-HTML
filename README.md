@@ -196,5 +196,44 @@ Working With Media
 ------------------------------------------------
 Audio
 ---------------------------------------
+- has opening and close tags
 - different audio file formats
   - mp3
+- you can create your own using JavaScript and the HTML media element API. For now, add "controls" attribute.
+- If the attribute is present, it means we want the controls.
+
+Video
+--------------------------------------
+- has opening and close tags
+- To display a video, use the source attribute to specify the video file.
+- Various codecs developed
+  > Real Video
+  > Sorenson
+  > Windows Media
+  > Flash
+  > H.263
+  > H.264 - patented codec owned by a consortium
+
+
+Working With Captions and Subtitles
+------------------------------------------------
+- adding the track element and linking it to a text file to add captions to the video.
+- this element adds functionality to the video player, allowing users to toggle captions on and off or switch between differeent subtitle options.
+- On the web, a file format called ibvtt, which stands for web video text tracks, will be used. It is a simple text file with a vtt extension that follows a specific convention for providing information.
+- To display these captions on the video, insert a track element within the video element.
+- On the track element, use the source attribute to specify the file.
+- Use the source lang attribute to indicate the language and add a default attribute to make this track the default choice when captions are enabled.
+
+
+Embedding Media via Iframes
+--------------------------------------------------
+- iframe element has attributes like height and width that can be adjusted.
+- The src attribute is used to specify the source of the video file.
+- embed someone else's toolkit onto your oqn website
+
+HTML Content Identification
+--------------------------------------------------
+
+HTML Language Support 
+-------------------------------
+- 
