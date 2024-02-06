@@ -295,8 +295,24 @@ Content Structuring
  > It represents a standalone unit of content.
 5. Section
  > The section element is used to mark sections of content.
- > each segment can be wrapped in a section element
+ > Each segment can be wrapped in a section element
  >  it's useful for dividing different topic zones on a website.
-6.
+6. Aside
+ > The aside element is for content that is off to the side.
+ > Advertisements can also be marked as an aside.
+
+Working with Forms and Interactive Elements
+--------------------------------------------------
+Form Fundamentals
+-------------------
+> create using form element.
+> Forms are used for tasks such as logging into websites, making purchases, and adding content.
+> Use semantic form elements in HTML instead of divs and spans because it allows us to leverage the built-in power of the browser.
+> Use label elements to create labels for the fields
+> Use the input element to provide places for users to input their details.
+> 
+
+
+
 
 
