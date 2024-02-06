@@ -229,7 +229,7 @@ Embedding Media via Iframes
 --------------------------------------------------
 - iframe element has attributes like height and width that can be adjusted.
 - The src attribute is used to specify the source of the video file.
-- embeded someone else's toolkit onto your own website
+- embedded someone else's toolkit onto your own website
 
 HTML Content Identification
 --------------------------------------------------
@@ -252,4 +252,31 @@ HTML Integration
 -------------------------------------------------
 HTML Page
 ---------------------
-- 
+- CSS is in css files
+- JavaScript is in JavaScript files
+- Additional files for images, video, audio, an ads.
+<br>
+- Users visit a URL > prompts a request for an HTML file > server returns a single HTML file > browser reads a HTML file and follows it's instructions. <br>
+- that initial HTML file that is returned when a web page is requested serves as a central hub for everything that happens after the site first loads.
+
+<strong> Once the HTML file is built, there are a few crucial parts that every web page needs. </strong><br>
+- the file should begin with a doctype statement (indicates era)
+- enclose everything else on the page within an HTML element (< HTML >)
+<br>
+- declare language being used and the content flow direction
+- Inside the HTML element, there are two main parts where everything goes: the head and the body.
+  >  The head contains all the metadata that the browser needs to know but will not display on the page.
+  >  The body is for all the content and is composed of various elements
+  > The doctype declaration, HTML head, and body elements are the essential building blocks of every web page.
+
+Document Head
+--------------------------------------------------
+- Meta elements are only placed inside the head (they provide metadata about the page)
+- to define the character set, use the character set attribute and set it to UTF-8.
+- title element > appears on the browser tab or bookmark
+- One of the purposes of the meta element is to inform the browser that the layout is responsive.
+-  Moreover, the meta tag is employed to assign a name to the webpage when saved to the home screen, and to specify a tile image and background color.
+- When a link is shared on platforms like, Twitter, it turns into an attractive card.
+- the <b>link element</b>
+
+
