@@ -277,6 +277,7 @@ Document Head
 - One of the purposes of the meta element is to inform the browser that the layout is responsive.
 -  Moreover, the meta tag is employed to assign a name to the webpage when saved to the home screen, and to specify a tile image and background color.
 - When a link is shared on platforms like, Twitter, it turns into an attractive card.
-- the <b>link element</b>
+- the <b>link element</b> serves to connect various assets that should load files such as CSS, fonts, and favicon > To inform the browser about the type of asset, utilize the rel attribute.
+- 
 
 
