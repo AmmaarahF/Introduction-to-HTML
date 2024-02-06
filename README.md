@@ -305,12 +305,25 @@ Working with Forms and Interactive Elements
 --------------------------------------------------
 Form Fundamentals
 -------------------
-- create using form element.<br>
-- Forms are used for tasks such as logging into websites, making purchases, and adding content.<br>
-- Use semantic form elements in HTML instead of divs and spans because it allows us to leverage the built-in power of the browser.<br>
-- Use label elements to create labels for the fields<br>
-- Use the input element to provide places for users to input their details.<br>
+- create using form element.
+- Forms are used for tasks such as logging into websites, making purchases, and adding content.
+- Use semantic form elements in HTML instead of divs and spans because it allows us to leverage the built-in power of the browser.
+- Use label elements to create labels for the fields
+- Use the input element to provide places for users to input their details.
+- Use the button element to create a button for users to submit the form.
+- Must add "name" attributes <br>
+
+To make it accessible to everyone, we need to address the issue of the label and input elements not being connected. There are two options to achieve this:- <br>
+- Add a "for" attribute to the label that matches the "id" attribute of the input.
+- Wrap the input with the label
+
+More Form Functions
+-------------------------------------------------
+- add the type attribute to each input.
 - 
+
+
+
 
 
 
