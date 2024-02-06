@@ -275,9 +275,28 @@ Document Head
 - to define the character set, use the character set attribute and set it to UTF-8.
 - title element > appears on the browser tab or bookmark
 - One of the purposes of the meta element is to inform the browser that the layout is responsive.
--  Moreover, the meta tag is employed to assign a name to the webpage when saved to the home screen, and to specify a tile image and background color.
+- Moreover, the meta tag is employed to assign a name to the webpage when saved to the home screen, and to specify a tile image and background color.
 - When a link is shared on platforms like, Twitter, it turns into an attractive card.
 - the <b>link element</b> serves to connect various assets that should load files such as CSS, fonts, and favicon > To inform the browser about the type of asset, utilize the rel attribute.
-- 
+- the href attribute is employed to specify the URL for the asset.
+- The script tag is used element in an HTML document's head > It instructs the browser to load a JavaScript file.
+
+Content Structuring
+---------------------------------------------------
+1. Main
+ > is used once per webpage and tells the browser where the main content is located.
+2. Header
+ > Header is used for site headers, article headers, and headers within the content.
+3. Footer
+ > signifies that there are extra things to convey, regardless of its position on the page.
+4. Article
+ > An article starts with a title, subtitle, author's name, and publication date, which can also be considered a <b>header.</b>
+ > The article element wraps around any type of content unit, whether it is a long written article, a short snippet, a teaser card, a tweet, or even an app element.
+ > It represents a standalone unit of content.
+5. Section
+ > The section element is used to mark sections of content.
+ > each segment can be wrapped in a section element
+ >  it's useful for dividing different topic zones on a website.
+6.
 
 
