@@ -319,11 +319,18 @@ To make it accessible to everyone, we need to address the issue of the label and
 
 More Form Functions
 -------------------------------------------------
-- add the type attribute to each input.
-- 
+- add the type attribute to each input. (Ex. type="text")
+- include the required attribute for must have information
+- include placeholder attribute and put a suggestion (appears light gray)
+- include a value attribute (pre-populate form with suggested inputs
 
 
 
+Other Form Element Types
+-------------------------------------------------
+- Some browsers will bring up an integrated password manager on password fields, to help the user fill in their password faster. 
+- text area element should be used for paragraphs
+- for "date" type 
 
 
 
