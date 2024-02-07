@@ -330,7 +330,13 @@ Other Form Element Types
 -------------------------------------------------
 - Some browsers will bring up an integrated password manager on password fields, to help the user fill in their password faster. 
 - text area element should be used for paragraphs
-- for "date" type 
+- for the date field , set type to "date"
+- for the color field, set type to "color"
+- for the file field, set type to "file"
+  > also add (accept = image), and the attribute of multiple (limits the kinds of files that are acceptable)
+- for a checkbox, add type = "checkbox"
+- for a drop-down list (select list), use the select and option elements
+- for a radio button, add type "radio"
 
 
 
