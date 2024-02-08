@@ -5,7 +5,7 @@ What is html ?
 Html, known as Hypertext Markup Language, is a markup language crucial for building and designing web pages. It structures content using tags, defining elements and their relationships like headings, paragraphs, and links, enabling browsers to render information.
 
 What is css ?
-CSS, known as Cascading Style Sheet, is a coding language essential for web development. It dictates the visual aspects of a website, determining how elements like test, images, layouts appear, ensuring a consistent and attractive user interface.
+CSS, known as Cascading Style Sheet, is a coding language essential for web development. It dictates the visual aspects of a website, determining how elements like text, images, layouts appear, ensuring a consistent and attractive user interface.
 
 What is JavaScript ?
 JavaScript is versatile but mainly used for web development. It enables dynamic content, interactivity, and asynchronous behavior on browsers. As a client-side scripting language, it manipulates the Document Object Model (DOM) to create responsive and engaging user interfaces.
@@ -339,6 +339,9 @@ Other Form Element Types
 - for a radio button, add type "radio"
 
 
+HTML Tables
+------------------------------------------------
+- 
 
 
 
