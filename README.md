@@ -341,7 +341,10 @@ Other Form Element Types
 
 HTML Tables
 ------------------------------------------------
-- 
+- <table> element - table - wraps the whole table
+- <tr> element - table row - wraps around elements belonging to the same row - colspan, rowspan, headers
+- <th> element - table header - defines a header for a column - colspan, rowspan, scope
+- <td> element - table data - marks the actual bits of data
 
 
 
