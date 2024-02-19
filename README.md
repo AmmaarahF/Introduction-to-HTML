@@ -348,3 +348,38 @@ HTML Tables
 
 
 
+===================================================================================================================
+
+Introduction to CSS
+--------------------------------------------
+What is CSS ? 
+- (cascading style sheet) , holds all styles for the webpage - adds visual appeal to the website.
+- CSS has 2 parts - Selector and Declaration block 
+  > selector (eg. p in css stylesheet) specifies a pattern in html, if the pattern matches, the styles within the declaration block are applied to the corresponding html elements.
+
+CSS Components
+----------------------------------------------
+- within the style declaration, there are two parts
+  > a property 
+  > a value
+
+Writing a Class Selector
+-----------------------------------------------
+- to make different paragraphs different colours, we need to assign classes to html elements to create a reference point for styling.
+- A class is an attribute that can be added to any html
+- use (.) before the class name in the css file
+
+Grouping Selectors
+----------------------------------------------
+- add a comma (,) in the css style sheet if you want to style more than one element (eg. p,li{ color: black;}
+- add span element to do inline styling
+
+Descendent Selectors
+----------------------------------------------
+- a descendant selector allows us to select list items that are descendants of either an ordered or an unordered list
+- To apply the styles using a descendant selector, we can use the code "OL LI"
+
+
+Identify a Color Scheme
+-----------------------------------------------
+- 
