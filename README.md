@@ -377,9 +377,42 @@ Grouping Selectors
 Descendent Selectors
 ----------------------------------------------
 - a descendant selector allows us to select list items that are descendants of either an ordered or an unordered list
-- To apply the styles using a descendant selector, we can use the code "OL LI"
+- To apply the styles using a descendant selector, for example, we can use the code "OL LI"
+- css selector with multiple terms are read from right to left but but typed from left to right
 
 
 Identify a Color Scheme
 -----------------------------------------------
-- 
+- colour pallete generators are useful
+- monochromatic (two similars colours are chosen)
+- analogous (includes various shades of green, triadic, which creates a pattern or the colour wheel using an equilateral triangle.
+
+Colour Formats
+----------------------------------------------
+- #6495ed - hexadecimal code notation
+> divided in three parts, all meaning a different colour
+
+Other formats
+---------------------------------------------
+- #778899 -> #789
+- rgb(119, 136, 135)
+- #778899cc -> rgba(119, 136, 183, 0.8)
+- HSL, HSLA
+
+
+Background and Text Color in CSS
+---------------------------------------------
+- to add a background colour use the "background-color" property and specifying a hex color, color the background behind specific elements.
+- to add colour to text, use the "color" property with the hex color
+
+Understanding Images in CSS
+--------------------------------------------
+- WebP can be used for any image type and offers high compression for smaller file sizes, resulting in faster website loading times.
+
+Working with Background Images in CSS
+-------------------------------------------
+- You can see the property, background image, and the URL value enclosed in parentheses.
+- By adding "repeat-X," the image will repeat only horizontally.
+- Using "repeat-Y" to repeat it vertically.
+- To control where the background image starts, specify values like "center," "right," or "left."
+- Additionally, you can use "bottom" to push the image to the bottom of the page.
