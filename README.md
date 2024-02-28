@@ -416,3 +416,52 @@ Working with Background Images in CSS
 - Using "repeat-Y" to repeat it vertically.
 - To control where the background image starts, specify values like "center," "right," or "left."
 - Additionally, you can use "bottom" to push the image to the bottom of the page.
+
+Understanding Type in CSS
+-------------------------------------------
+- two main fonts - Serif and Sans serif .
+- Serif fonts have small lines at the ends of the letters called serifs.
+- sans serif fonts do not have serifs and have a more modern appearance.
+- sans serif fonts are mainly used on the web for extended text because they look clean and are easy to read.
+- specifying multiple fonts at once is known as a font stack.
+- A common font stack is Arial, Helvetica, sans serif. Arial is commonly available on PCs, Helvetica on Macs, and sans serif is a fallback that requests the device's default sans serif font if Arial or Helvetica are not available. 
+
+Applying Type Formatting with CSS
+-------------------------------------------
+- First, add a font-family property to the body element. This property allows us to change the fonts on the page.
+- Use a font stack, starting with Arial, then Helvetica, and finally Sans-serif.
+
+Understanding and Applying size in CSS
+-------------------------------------------
+- There are two types of sizing: absolute and relative.
+- Absolute sizes, such as points or pixels, remain the same regardless of the screen size.
+- Relative units like percentages or R-E-M, can adjust based on the page size.
+- 1 rem is equivalent to 16 pixels.
+- Em is less commonly used nowadays
+
+Understanding the Box Model in CSS
+------------------------------------------
+- every HTML element is like a box with different properties.
+- First, we have the content, which is the text inside the box.
+- Next, we have the padding, which is the space between the border and the content
+- Then, there is the border, which is like a line surrounding the content.
+- Outside the border, there is the margin, which represents the space between elements on the page.
+
+Advanced CSS Properties and Concepts
+-----------------------------------------
+<br>
+
+Styling Links With CSS
+-----------------------------------------
+- Typically, links are blue and underlined, and once you click on them, they turn purple.
+- The best approach is to target links using the "a" anchor tag. We can specify "a" and set the color 
+
+Inheritance in CSS
+-----------------------------------------
+- Inheritance entails styles being passed down from parent elements to their descendants.
+- The "*" selector, selects absolutely everything.
+
+Debugging CSS with Borders and Background Colors
+--------------------------------------------------
+- One trick is to add a background color or a border to the element you want to style.
+- Another quick fix is to add the CSS style "display: block" to the A selector, which stretches the link across the page.
